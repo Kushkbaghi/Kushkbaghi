@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="">
 
 <h2> Hey there! I'm Nick.</h2>
 
@@ -49,7 +49,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p >
 <a href="https://www.kushkbaghi.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kushkbaghi.com-blue?style=flat-square&logo=google-chrome"></a>
 </a>
 
