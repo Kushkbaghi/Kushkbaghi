@@ -14,7 +14,7 @@
 
 - 💻 &nbsp;
   ![Csharp](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=CSharp&logoColor=007396)
-  ![.NET Core](https://img.shields.io/badge/-.Net Core-333333?style=flat&logo=dotnet&logoColor=007396)
+  ![.NET Core](https://img.shields.io/badge/-.NetCore-333333?style=flat&logo=dotnet&logoColor=007396)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
 
