@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Webbutveckling at Mid Sweden University.
-- 💼 &nbsp; Working as a math teachers.
+- 🎓 &nbsp; Graduated at Mid Sweden University.
+- 💼 &nbsp; Working as a math teacher.
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Producing music as hobbies/side hustles.
 
