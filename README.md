@@ -15,8 +15,8 @@
 - 💻 &nbsp;
   ![Csharp](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=CSharp&logoColor=007396)
   ![.NET Core](https://img.shields.io/badge/-.NetCore-333333?style=flat&logo=dotnet&logoColor=007396)
-  ![java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Kubenetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes&logoColor=007396)
+  ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker&logoColor=007396)
   ![Azure](https://img.shields.io/badge/-azure-333333?style=flat&logo=azure&logoColor=007396)
 
 - 🌐 &nbsp;
