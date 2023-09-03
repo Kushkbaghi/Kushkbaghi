@@ -20,6 +20,7 @@
   ![Azure](https://img.shields.io/badge/-azure-333333?style=flat&logo=azure&logoColor=007396)
 
 - 🌐 &nbsp;
+  ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=1572B6)
@@ -57,11 +58,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p >
-<a href="https://www.kushkbaghi.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kushkbaghi.com-blue?style=flat-square&logo=google-chrome"></a>
-</a>
-
 <a href="mailtonick.kushkbaghi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nick.kushkbaghi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/kushkbaghi)
