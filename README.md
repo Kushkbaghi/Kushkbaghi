@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated at Mid Sweden University.
-- 💼 &nbsp; Working as a softwaredeveloper. 
+- 💼 &nbsp; Working as a software developer at Svep design Center AB. 
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Producing music as hobbies/side hustles.
 
